@@ -19,7 +19,7 @@ p {
 }
 
 .container {
-    width: 1200px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -167,10 +167,6 @@ margin-right: 35px;
     align-items: center;
     position: relative;
     z-index: 2;
-}
-
-.intro__block{
-
 }
 
 .intro__title{
